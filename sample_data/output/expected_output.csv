@@ -1,0 +1,9 @@
+ticket_id,ticket_text,sentiment,urgency,churn_risk
+1,"I have been waiting for 3 days and no one responded. I am cancelling my subscription today.",Negative,High,High
+2,"My payment failed twice but I was still charged. Please look into this immediately.",Negative,High,Medium
+3,"Love the product! Everything is working perfectly. Thank you so much!",Positive,Low,Low
+4,"Just checking if there are any new features coming soon. Great service!",Positive,Low,Low
+5,"This is the worst experience ever. Nothing works and support is useless. I want a refund now.",Negative,High,High
+6,"I cannot login to my account since yesterday. Please fix this urgently.",Negative,High,Medium
+7,"The app crashes every time I open it. Very frustrating experience.",Negative,Medium,Medium
+8,"Happy with the service overall, just a minor UI suggestion for the dashboard.",Positive,Low,Low
